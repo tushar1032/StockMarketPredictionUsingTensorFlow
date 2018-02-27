@@ -1,0 +1,2 @@
+model_checkpoint_path: "Project_Model_RNN_SavedAMZNtest"
+all_model_checkpoint_paths: "Project_Model_RNN_SavedAMZNtest"
